@@ -1,2 +1,2 @@
-# Python-Projecs
+# Python-Projects
 My-Game
